@@ -6,7 +6,7 @@
 <p>中国中学生😎😎😎</p>
 <p>自学c++、HTML（CSS死活不会）哈哈哈</p>
 <p>谁会教我😁😁😁😁😁😁</p>
-<h4>托管网站https://happyssheep.github.io/index.html 杨昊的自建站——主页</h4>
+<h4>托管网站<a href="https://happyssheep.github.io/">Yangsoft</a></h4>
  <p> 超级社牛🤣🤣🤣</p>
   <p>QQ：3567734104</p>
 
